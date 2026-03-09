@@ -1,0 +1,5 @@
+module qs.modules.widgets.launcher
+LauncherView 1.0 LauncherView.qml
+ImperiaLauncherOverlay 1.0 ImperiaLauncherOverlay.qml
+WallpaperChooser 1.0 WallpaperChooser.qml
+AppCategoryBar 1.0 AppCategoryBar.qml
